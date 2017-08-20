@@ -1,0 +1,8 @@
+
+ZSH_THEME="agnoster"
+DEFAULT_USER="$USER"
+
+# User configuration
+autoload predict-on
+predict-on
+unsetopt listambiguous
